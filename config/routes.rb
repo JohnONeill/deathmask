@@ -1,6 +1,6 @@
 FirstApp::Application.routes.draw do
 
-  get "mask_viewer/home"
+  root :to => 'mask_viewer#index'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
