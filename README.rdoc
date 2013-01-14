@@ -1,3 +1,3 @@
 == Lawrence Hutton Collection of Life and Death Masks
 
-Project currently hosted at mighty-journey-1735.herokuapp.com or pull from source, run rails s, and go to 0.0.0.0:3000.
+Project currently hosted at http://still-bastion-8670.herokuapp.com/ or pull from source, run rails s, and go to 0.0.0.0:3000.
